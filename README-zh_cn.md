@@ -1,2 +1,16 @@
-# SUST-Test-Bank
-In order to provide SUST students with a final review &amp; gap-checking website.
+# SUST试题库
+
+[English](/README.md) | **中文**
+
+为了给陕西科技大学学生提供一个期末复习 & 查漏补缺的网站。
+
+学生们对期末复习总是感到头疼。
+不过万幸的是，老师总会在期末临近时发放一些复习资料，主要是往年的试卷，还有其他的一些复习题以及课程内容重点。
+
+......通常情况下他们会这样。
+
+如果有老师没有这样做，或者是发放的复习资料还不够多，那怎么办呢？
+
+......
+
+那就让我们来帮你吧！
